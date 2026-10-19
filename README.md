@@ -5,7 +5,7 @@ A secure, scalable full-stack web application built to manage corporate employee
 ## 📸 Architectural Blueprint & Layout
 I began this project by sketching the database schema and layout on paper to map out how data flows between Django views and the database.
 
-![System Architecture](./design.jpg)
+[📄 View My Original Design Sketch Blueprint](./All PDF Reader 20261019 18.31.38_compressed (1).pdf)
 
 ## 🚀 Core Features
 * **Dynamic Database Management (CRUD):** Fully operational interface to Register (Create), Display (Read), Modify (Update), and Purge (Delete) employee profiles.
